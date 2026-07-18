@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,sklearn,git,github,vscode&theme=dark&perline=8"/>
+</p>
+
+<p align="center">
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9D?style=for-the-badge&labelColor=000000"/>
 <img src="https://img.shields.io/badge/LOCATION-DELHI,_INDIA-00FF9D?style=for-the-badge&labelColor=000000"/>
 </p>
@@ -152,12 +156,12 @@ Uses Sentence Transformers to match resumes to job requirements.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasraj177&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Rasraj177&theme=chartreuse-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rasraj177&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Rasraj177&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasraj177&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasraj177&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
 </details>

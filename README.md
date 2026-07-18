@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff9d&height=220&section=header&text=RASRAJ%20SURI&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=35&desc=%3E%20AI%20and%20Data%20Science%20%7C%20System%20Booting...&descAlignY=55&descSize=18&descColor=00ff9d" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=700&lines=root%40rasraj%3A~%24+whoami;%3E+AI+%26+Data+Science+Undergrad;%3E+AI+Intern+%40+IBM+PBEL;%3E+Building+ML+systems+that+ship" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=700&lines=root%40rasraj%3A~%24+whoami;%3E+AI+and+Data+Science+Undergrad;%3E+AI+Intern+%40+IBM+PBEL;%3E+Building+ML+systems+that+ship" />
 </p>
 
 <p align="center">
@@ -130,24 +130,16 @@ Uses Sentence Transformers to match resumes to job requirements.
 
 ## `01000101` EDUCATION.dat
 
-| Institution | Degree | Score | Year |
-|---|---|---|---|
-| SRM University Delhi-NCR | B.Tech CS (AI & Data Science) | 8.84/10 | 2023–2027 |
-| DAV Public School, Rohini (CBSE) | XII, Science | 85.2% | 2023 |
-| DAV Public School, Rohini (CBSE) | X | 90.2% | 2021 |
+```
+B.Tech, Computer Science (AI & Data Science)
+SRM University Delhi-NCR — 2023 – 2027
+```
 
 <br>
 
-## `01000011` CERTIFICATIONS.json
+## `01000011` CERTIFICATIONS.log
 
-```json
-[
-  { "cert": "Oracle Cloud Infrastructure 2025 AI Foundations Associate", "issuer": "Oracle", "date": "Oct 2025" },
-  { "cert": "IBM - Data Science Methodology (DS0103EN)", "issuer": "IBM", "date": "May 2025" },
-  { "cert": "Deloitte Data Analytics Job Simulation", "issuer": "Forage", "date": "Feb 2026" },
-  { "cert": "IBM - Python 101 for Data Science (PY0101EN)", "issuer": "IBM", "date": "Dec 2024" }
-]
-```
+`Oracle Cloud Infrastructure 2025 AI Foundations Associate` · `IBM Data Science Methodology` · `Deloitte Data Analytics Job Simulation` · `IBM Python 101 for Data Science`
 
 <br>
 

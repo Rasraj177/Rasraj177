@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff9d&height=220&section=header&text=RASRAJ%20SURI&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=35&desc=%3E%20AI%20%26%20Data%20Science%20%7C%20System%20Booting...&descAlignY=55&descSize=18&descColor=00ff9d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff9d&height=220&section=header&text=RASRAJ%20SURI&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=35&desc=%3E%20AI%20and%20Data%20Science%20%7C%20System%20Booting...&descAlignY=55&descSize=18&descColor=00ff9d" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9D&background=00000000&center=true&vCenter=true&width=700&lines=root%40rasraj%3A~%24+whoami;%3E+AI+%26+Data+Science+Undergrad;%3E+AI+Intern+%40+IBM+PBEL;%3E+Building+ML+systems+that+ship" />

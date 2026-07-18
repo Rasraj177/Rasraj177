@@ -156,12 +156,7 @@ Uses Sentence Transformers to match resumes to job requirements.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rasraj177&show_icons=true&theme=dark&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Rasraj177&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasraj177&layout=compact&theme=dark&hide_border=true" height="165"/>
 </p>
 
 </details>
